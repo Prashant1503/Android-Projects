@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="signUp_txt">SignUp,to get Started</string>
+    <string name="register_txt">Register User</string>
+    <string name="mobile_number_hint_txt">enter mobile number</string>
+    <string name="field_error_hint">Invalid mobile number</string>
+
+</resources>
