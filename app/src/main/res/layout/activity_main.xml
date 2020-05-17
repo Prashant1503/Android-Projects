@@ -57,14 +57,21 @@
             android:textColor="@android:color/white"
             android:text="Read Note"/>
 
+
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/dataTv"
             android:layout_width="match_parent"
-            android:layout_height="120dp"
+            android:layout_height="100dp"
             android:layout_below="@id/readNoteBtn"
             android:layout_marginTop="30dp"
             android:hint="Saved data will be displayed here...."/>
 
+       <androidx.appcompat.widget.AppCompatButton
+           android:id="@+id/signInWithGoogleBtn"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_below="@id/dataTv"
+           android:text="Sign in with Google"/>
 
 
 
